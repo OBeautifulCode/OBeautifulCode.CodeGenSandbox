@@ -1,0 +1,18 @@
+﻿<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>OBeautifulCode.CodeGenSandbox.Recipes.DummyFactory</id>
+    <description>A Dummy Factory for types in OBeautifulCode.CodeGenSandbox</description>
+    <tags>dummyfactory dummy factory fakeiteasy autofixture snippet codeinclude utility shared recipe CodeGenSandbox</tags>
+    <iconUrl>https://raw.githubusercontent.com/OBeautifulCode/OBeautifulCode.CodeGenSandbox/main/OBeautifulCode.CodeGenSandbox.Test/nuget-icon.png</iconUrl>
+    <dependencies>
+        <dependency id="OBeautifulCode.CodeGenSandbox" version="$version$" />
+        <dependency id="OBeautifulCode.AutoFakeItEasy" version ="1.0.126" />
+        <dependency id="OBeautifulCode.CodeAnalysis.Recipes.SuppressBecause" version="1.0.6" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="CodeGenSandboxDummyFactory.cs" target="content\net462\.recipes\OBeautifulCode.CodeGenSandbox\CodeGenSandboxDummyFactory.cs" />
+    <file src="CodeGenSandboxDummyFactory.designer.cs" target="content\net462\.recipes\OBeautifulCode.CodeGenSandbox\CodeGenSandboxDummyFactory.designer.cs" />
+  </files>
+</package>

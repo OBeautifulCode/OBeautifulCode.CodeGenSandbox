@@ -1,0 +1,8 @@
+﻿<?xml version="1.0"?>
+<package>
+  <metadata>
+    <description>Shared types (models and utilities) for CodeGenSandbox</description>
+    <tags>models modelobject utilities CodeGenSandbox</tags>
+    <iconUrl>https://raw.githubusercontent.com/OBeautifulCode/OBeautifulCode.CodeGenSandbox/main/OBeautifulCode.CodeGenSandbox/nuget-icon.png</iconUrl>
+  </metadata>
+</package>

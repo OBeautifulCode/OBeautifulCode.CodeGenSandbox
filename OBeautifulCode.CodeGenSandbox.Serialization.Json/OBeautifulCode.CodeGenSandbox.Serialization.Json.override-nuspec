@@ -1,0 +1,8 @@
+﻿<?xml version="1.0"?>
+<package>
+  <metadata>
+    <description>JSON Serialization Configuration for types in OBeautifulCode.CodeGenSandbox</description>
+    <tags>json serialization configuration CodeGenSandbox</tags>
+    <iconUrl>https://raw.githubusercontent.com/OBeautifulCode/OBeautifulCode.CodeGenSandbox/main/OBeautifulCode.CodeGenSandbox.Serialization.Json/nuget-icon.png</iconUrl>
+  </metadata>
+</package>
